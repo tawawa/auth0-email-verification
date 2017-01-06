@@ -1,0 +1,15 @@
+{
+  "title": "Email Verification",
+  "name": "auth0-email-verification",
+  "version": "1.0.0",
+  "author": "arcseldon",
+  "description": "Email verification step introduced",
+  "type": "application",
+  "repository": "https://github.com/tawawa/auth0-email-verification.git",
+  "keywords": [
+    "auth0",
+    "email",
+    "verification",
+    "webtask"
+  ]
+}
